@@ -1,6 +1,6 @@
 # project-euler
 
-Learning clojure solving [projecteuler.net](projecteuler.net) problems
+Learning clojure solving [projecteuler.net](http://www.projecteuler.net) problems
 
 ## License
 
